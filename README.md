@@ -1,2 +1,2 @@
-# Fehch
-My own fetch like Neo and ScreenFetch
+# EMOS
+EMOS a rust os
